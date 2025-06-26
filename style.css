@@ -1,0 +1,36 @@
+.port {
+    color: #898AC4;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.header {
+    color: #A2AADB;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    margin: 20px;
+}
+
+.info {
+    color: black;
+    font-size: 18px;
+}
+
+.link {
+    color: #898AC4;
+    text-align: center;
+    font-size: 16px;
+    margin: 20px;
+}
+
+.box {
+  border: solid #C0C9EE;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  margin-bottom: 10px;
+}
